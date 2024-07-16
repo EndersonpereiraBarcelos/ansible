@@ -1,0 +1,2 @@
+[wordpress]
+192.168.1.14 ansible_user=ubuntu ansible_ssh_private_key_file='/home/enderson/ansible/ubuntu_1'
